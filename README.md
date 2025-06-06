@@ -1,1 +1,3 @@
-# nanoresonance.github.io
+NanoResonance Q-Finder is a cutting-edge device capable of scanning, detecting, and tuning frequencies at the nanoscale and sub-nanohertz resolution. Designed to interact with biological, environmental, and quantum systems, it enables precise identification and modulation of harmonic frequencies that affect living tissue, technological systems, and electromagnetic fields.
+
+By bridging advanced nanoscience with harmonic resonance theory, the Q-Finder opens the path to real-time applications in pain relief, emotional regulation, quantum research, defense systems, and universal frequency mapping—bringing us closer to understanding and utilizing the true vibrational language of nature.
